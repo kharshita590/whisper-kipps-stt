@@ -1,0 +1,1 @@
+/Users/akhileshkumar/Desktop/whisper-plugin-kipps/livekit_example/livekit-plugins-whisper/livekit/plugins/whisper/models.py

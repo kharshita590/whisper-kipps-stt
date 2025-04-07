@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.py
+livekit/plugins/whisper/__init__.py
+livekit/plugins/whisper/log.py
+livekit/plugins/whisper/models.py
+livekit/plugins/whisper/py.typed
+livekit/plugins/whisper/stt.py
+livekit/plugins/whisper/version.py
+livekit_plugins_whisper.egg-info/PKG-INFO
+livekit_plugins_whisper.egg-info/SOURCES.txt
+livekit_plugins_whisper.egg-info/dependency_links.txt
+livekit_plugins_whisper.egg-info/requires.txt
+livekit_plugins_whisper.egg-info/top_level.txt

@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./livekit_example/livekit-plugins-whisper"
+    ]
+}
