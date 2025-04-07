@@ -12,3 +12,5 @@ Create a virtual environment using Python's built-in `venv`:
 
 ```bash
 python3 -m venv venv
+
+activate the virtual environment
